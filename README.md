@@ -1,7 +1,9 @@
 # 집중해조 : 온라인 강의 집중도 분석 솔루션 서비스
 
-<img src="https://github.com/user-attachments/assets/b1ca3dc2-deea-4c9a-a17c-5b7f262ffc82" alt="01" width="400"/>
-<img src="https://github.com/user-attachments/assets/8b00546d-d4f5-4b38-8f69-e03a5e7e9172" alt="02" width="400"/>
+<div style="text-align: center;">
+  <img src="https://github.com/user-attachments/assets/b1ca3dc2-deea-4c9a-a17c-5b7f262ffc82" alt="System Diagram" width="300"/>
+  <img src="https://github.com/user-attachments/assets/8b00546d-d4f5-4b38-8f69-e03a5e7e9172" alt="Concentration Analysis Report" width="300"/>
+</div>
 
 by [JipJungHae조](mailto:jipjung24@gmail.com)
 
